@@ -1,0 +1,191 @@
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Professor Flashlight.exe.config
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Interop.WMPLib.dll
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.csproj.ResolveComReference.cache
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\hurt.mp3
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\Player left 3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoleft1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoleft2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoleft3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoright1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoright2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoright3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemydown1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemydown2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemydown3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyleft1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyleft2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyleft3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyright1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyright2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyright3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyup1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyup2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyup3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerleft2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerleft3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerRight1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerright2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerright3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerUp1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerUp2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerUp3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerdown1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerdown2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerdown3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerleft1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\coollogo_com-273331399.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\backgorund main menu.jpg
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\About.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\exit game.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\how to play.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\NEW GAME.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\title.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laser.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laserdown.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laserleft.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laserright.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\wallpaper.jpg
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\wasd.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\spacebar.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\1life.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\2life.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\3 life.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\dungeon.bmp
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\howtoplaybackground.jpg
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivordown1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivordown2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivordown3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorleft1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorleft2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorleft3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorright1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorright2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorright3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorup1.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorup2.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorup3.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\move.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\shoot.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\back.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\developed.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\turnoff.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\tony.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\ricky.png
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\bombspray.gif
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\appear.mp3
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\explosion.mp3
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\hit.mp3
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laser.mp3
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\select.mp3
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Professor Flashlight.exe
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Professor Flashlight.pdb
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.About.resources
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Leaderboard.resources
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Form1.resources
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.How_To_Play.resources
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Main_Menu.resources
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Mission_Mode.resources
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.ModeSelect.resources
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Properties.Resources.resources
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Story.resources
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.csproj.GenerateResource.Cache
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.exe
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.pdb
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.csprojResolveAssemblyReference.cache
+D:\perkuliahan ubaya\semester 1\student chalange\Professor Flashlight\Professor Flashlight\bin\Release\Resources\creepymusic.mp3
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\creepymusic.mp3
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\hurt.mp3
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\Player left 3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoleft1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoleft2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoleft3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoright1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoright2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemygoright3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemydown1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemydown2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemydown3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyleft1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyleft2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyleft3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyright1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyright2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyright3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyup1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyup2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\enemyup3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerleft2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerleft3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerRight1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerright2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerright3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerUp1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerUp2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerUp3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerdown1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerdown2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerdown3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\playerleft1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\coollogo_com-273331399.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\backgorund main menu.jpg
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\About.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\exit game.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\how to play.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\NEW GAME.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\title.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laser.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laserdown.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laserleft.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laserright.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\wallpaper.jpg
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\wasd.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\spacebar.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\1life.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\2life.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\3 life.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\dungeon.bmp
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\howtoplaybackground.jpg
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivordown1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivordown2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivordown3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorleft1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorleft2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorleft3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorright1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorright2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorright3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorup1.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorup2.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\survivorup3.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\move.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\shoot.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\back.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\developed.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\turnoff.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\tony.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\ricky.png
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\bombspray.gif
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\appear.mp3
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\explosion.mp3
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\hit.mp3
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\laser.mp3
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Resources\select.mp3
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Professor Flashlight.exe.config
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Professor Flashlight.exe
+D:\Professor Flashlight\Professor Flashlight\bin\Release\Professor Flashlight.pdb
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.csprojResolveAssemblyReference.cache
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Interop.WMPLib.dll
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.csproj.ResolveComReference.cache
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.About.resources
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Leaderboard.resources
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Form1.resources
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.How_To_Play.resources
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Main_Menu.resources
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Mission_Mode.resources
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.ModeSelect.resources
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Properties.Resources.resources
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor_Flashlight.Story.resources
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.csproj.GenerateResource.Cache
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.csproj.CoreCompileInputs.cache
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.exe
+D:\Professor Flashlight\Professor Flashlight\obj\Release\Professor Flashlight.pdb
